@@ -1,0 +1,23 @@
+object Form1: TForm1
+  Left = 1857
+  Height = 416
+  Top = 125
+  Width = 693
+  BorderStyle = bsDialog
+  Caption = 'Form1'
+  ClientHeight = 416
+  ClientWidth = 693
+  OnMouseMove = FormMouseMove
+  LCLVersion = '2.2.6.0'
+  object Panel1: TPanel
+    Left = 24
+    Height = 120
+    Top = 24
+    Width = 264
+    BevelOuter = bvNone
+    BorderWidth = 1
+    BorderStyle = bsSingle
+    Caption = 'Get Position'
+    TabOrder = 0
+  end
+end

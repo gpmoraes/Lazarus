@@ -1,0 +1,40 @@
+# Lazarus FreePascal Project
+*.o
+*.ppu
+*.exe
+*.compiled
+*.user
+*.bak
+*.~*
+
+# Lazarus related files
+*.lpi
+*.lps
+*.lpr
+*.lrp
+*.ppw
+*.bak
+
+# Unit output directory
+lib/
+units/
+
+# IDE files
+*.lps
+*.bak
+*.bak.*
+*.~*
+*.gpi
+*.ghr
+*.grp
+*.lrs
+*.lrw
+*.lut
+*.lwc
+*.lwf
+*.lws
+*.lwb
+*.lps
+
+# Backup files
+backup/
